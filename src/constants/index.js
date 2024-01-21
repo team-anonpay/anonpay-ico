@@ -2,6 +2,8 @@ import {
   people01,
   people02,
   people03,
+  people04,
+  people05,
   facebook,
   instagram,
   linkedin,
@@ -63,25 +65,41 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+    name: "Will McOliver (CEO)",
+    title: "Founding his second startup",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+    name: "Pedro Roskopf (CMO)",
+    title: "Digital nomad with more than 6 million invoiced",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    name: "Guilherme Fittipaldi (CPO)",
+    title: "Computer scientist and former Subway Software Engineer",
     img: people03,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Leonardo Camargo (CTO)",
+    title: "Software Engineer and entrepreneur",
+    img: people04,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Douglas Olim (COO)",
+    title: "Digital nomad and entrepreneur",
+    img: people05,
   },
 ];
 
